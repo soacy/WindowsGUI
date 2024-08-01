@@ -5,4 +5,4 @@ It's supposed to feel like a small windows client in a way.
 This could be used for whatever you desire!
 
 **Packages Used:**
-- GunaUI2
+- [GunaUI2](https://gunaui.com/)
